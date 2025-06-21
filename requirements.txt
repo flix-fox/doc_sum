@@ -1,0 +1,12 @@
+streamlit
+pytesseract
+pdfplumber
+python-docx
+gtts
+transformers
+torch
+Pillow
+camelot-py[cv]
+deep-translator
+python-dotenv
+google-generativeai
