@@ -1,12 +1,11 @@
 streamlit
+transformers==4.38.2
+torch
 pytesseract
 pdfplumber
+docx
 python-docx
-gtts
-transformers
-torch
-Pillow
+gTTS
 camelot-py[cv]
+pandas
 deep-translator
-python-dotenv
-google-generativeai
